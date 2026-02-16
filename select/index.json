@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Heathens",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T05:20:13.838620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/01_Heathens_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/02_Heathens_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/03_Heathens_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "Bestial Warlust",
+      "has_synced": false,
+      "path": "select/04_Heathens_Bestial_Warlust.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heathens from the North",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/05_Heathens_from_the_North_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heathen's Kiss",
+      "artist": "Horse Feathers",
+      "has_synced": true,
+      "path": "select/06_Heathen's_Kiss_Horse_Feathers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heathens (feat. MUTEMATH)",
+      "artist": "Twenty One Pilots feat. Mutemath",
+      "has_synced": true,
+      "path": "select/07_Heathens_(feat._MUTEMATH)_Twenty_One_Pilots_feat._Mutemath.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heathens (feat. MUTEMATH)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/08_Heathens_(feat._MUTEMATH)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/09_Heathens_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heathens (Twenty One Pilots на русском)",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/10_Heathens_(Twenty_One_Pilots_на_русском)_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "RADIO TAPOK",
+      "has_synced": true,
+      "path": "select/11_Heathens_RADIO_TAPOK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heathens / Trees - Livestream Version",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/12_Heathens___Trees_-_Livestream_Version_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/13_Heathens_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "Boston Manor",
+      "has_synced": true,
+      "path": "select/14_Heathens_Boston_Manor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heathens",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/15_Heathens_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heathens \u0000 Trees (Livestream Version)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/16_Heathens_\u0000_Trees_(Livestream_Version)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heathens (Acapella Version)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/17_Heathens_(Acapella_Version)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Heathens (Instrumental Version)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/18_Heathens_(Instrumental_Version)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heathens",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Heathens_Twenty_One_Pilots.txt"
+    }
+  ]
+}
